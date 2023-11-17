@@ -1,0 +1,4 @@
+### technique
+
+- counter
+- pointer
