@@ -5,6 +5,7 @@
 | :---: | :--------------------------------------------------------: | :---------------------: | :--------: |
 | 1 | [two-sum][1web] | [Source Code][1code] | 2023/07/26 |
 | 509 | [fibonacci-number][509web] | [Source Code][509code] | 2023/07/29 |
+| 125 | [valid-palindrome][125web] | [Source Code][125code] | 2023/08/03 |
 
 **Medium Problems**  
 | No. | Title | Code | Date |
@@ -22,3 +23,5 @@
 [509code]: ./src/easy/fibonacci-number/1.js
 [11web]: https://leetcode.com/problems/container-with-most-water/
 [11code]: ./src/medium/container-with-most-water/1.js
+[125web]: https://leetcode.com/problems/valid-palindrome/
+[125code]: ./src/easy/valid-palindrome/1.js
