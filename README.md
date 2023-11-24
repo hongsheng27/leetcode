@@ -14,6 +14,13 @@
 | 3 | [longest-substring-without-repeating-characters][3web] | [Source Code][3code] | 2023/07/21 |
 | 11 | [container-with-most-water][11web] | [Source Code][11code] | 2023/08/02 |
 
+**Other**
+| Title | Code | Date |
+| :---: | :----------------------------------------------------: | :--------: |
+| bubble-sort | [Source Code][sort1code] | 2023/08/08 |
+| insertion-sort | [Source Code][sort2code] | 2023/08/10 |
+| selection-sort | [Source Code][sort3code] | 2023/08/14 |
+
 <!-- URL Below -->
 
 [1web]: https://leetcode.com/problems/two-sum/
@@ -28,3 +35,6 @@
 [125code]: ./src/easy/valid-palindrome/1.js
 [509web]: https://leetcode.com/problems/fibonacci-number/
 [509code]: ./src/easy/fibonacci-number/1.js
+[sort1code]: ./src/other/sort/bubble-sort.js
+[sort2code]: ./src/other/sort/insertion-sort.js
+[sort3code]: ./src/other/sort/selection-sort.js
