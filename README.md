@@ -13,6 +13,7 @@
 | :---: | :----------------------------------------------------: | :--------------------: | :--------: |
 | 3 | [longest-substring-without-repeating-characters][3web] | [Source Code][3code] | 2023/07/21 |
 | 11 | [container-with-most-water][11web] | [Source Code][11code] | 2023/08/02 |
+| 424 | [longest-repeating-character-replacement][424web] | [Source Code][424code] | 2023/08/17 |
 
 **Other**
 | Title | Code | Date |
@@ -35,6 +36,8 @@
 [125code]: ./src/easy/valid-palindrome/1.js
 [509web]: https://leetcode.com/problems/fibonacci-number/
 [509code]: ./src/easy/fibonacci-number/1.js
+[424web]: https://leetcode.com/problems/longest-repeating-character-replacement/
+[424code]: ./src/medium/longest-repeating-character-replacement/1.js
 [sort1code]: ./src/other/sort/bubble-sort.js
 [sort2code]: ./src/other/sort/insertion-sort.js
 [sort3code]: ./src/other/sort/selection-sort.js
