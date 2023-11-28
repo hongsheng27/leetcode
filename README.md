@@ -37,7 +37,7 @@
 [509web]: https://leetcode.com/problems/fibonacci-number/
 [509code]: ./src/easy/fibonacci-number/1.js
 [424web]: https://leetcode.com/problems/longest-repeating-character-replacement/
-[424code]: ./src/medium/longest-repeating-character-replacement/1.js
+[424code]: ./src/medium/longest-repeating-character-replacement/2.js
 [sort1code]: ./src/other/sort/bubble-sort.js
 [sort2code]: ./src/other/sort/insertion-sort.js
 [sort3code]: ./src/other/sort/selection-sort.js
