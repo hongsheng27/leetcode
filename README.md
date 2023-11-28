@@ -7,6 +7,7 @@
 | 509 | [fibonacci-number][509web] | [Source Code][509code] | 2023/07/29 |
 | 125 | [valid-palindrome][125web] | [Source Code][125code] | 2023/08/03 |
 | 121 | [best-time-to-buy-and-sell-stock][121web] | [Source Code][121code] | 2023/08/06 |
+| 342 | [power-of-four][342web] | [Source Code][342code] | 2023/08/22 |
 
 **Medium Problems**  
 | No. | Title | Code | Date |
@@ -34,6 +35,8 @@
 [121code]: ./src/easy/best-time-to-buy-and-sell-stock/1.js
 [125web]: https://leetcode.com/problems/valid-palindrome/
 [125code]: ./src/easy/valid-palindrome/1.js
+[342web]: https://leetcode.com/problems/power-of-four/
+[342code]: ./src/easy/power-of-four/1.js
 [509web]: https://leetcode.com/problems/fibonacci-number/
 [509code]: ./src/easy/fibonacci-number/1.js
 [424web]: https://leetcode.com/problems/longest-repeating-character-replacement/
