@@ -1,0 +1,3 @@
+### technique
+
+- counter(hash table)
