@@ -18,13 +18,6 @@
 | 11 | [container-with-most-water][11web] | [Source Code][11code] | 2023/08/02 |
 | 424 | [longest-repeating-character-replacement][424web] | [Source Code][424code] | 2023/08/17 |
 
-**Other**
-| Title | Code | Date |
-| :---: | :----------------------------------------------------: | :--------: |
-| bubble-sort | [Source Code][sort1code] | 2023/08/08 |
-| insertion-sort | [Source Code][sort2code] | 2023/08/10 |
-| selection-sort | [Source Code][sort3code] | 2023/08/14 |
-
 <!-- URL Below -->
 
 [1web]: https://leetcode.com/problems/two-sum/
@@ -47,6 +40,3 @@
 [509code]: ./src/easy/fibonacci-number/1.js
 [424web]: https://leetcode.com/problems/longest-repeating-character-replacement/
 [424code]: ./src/medium/longest-repeating-character-replacement/2.js
-[sort1code]: ./src/other/sort/bubble-sort.js
-[sort2code]: ./src/other/sort/insertion-sort.js
-[sort3code]: ./src/other/sort/selection-sort.js
