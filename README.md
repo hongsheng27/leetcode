@@ -9,6 +9,7 @@
 | 121 | [best-time-to-buy-and-sell-stock][121web] | [Source Code][121code] | 2023/08/06 |
 | 342 | [power-of-four][342web] | [Source Code][342code] | 2023/08/22 |
 | 217 | [contains-duplicate][217web] | [Source Code][217code] | 2023/08/31 |
+| 20 | [valid-parentheses][20web] | [Source Code][20code] | 2023/09/05 |
 
 **Medium Problems**  
 | No. | Title | Code | Date |
@@ -32,6 +33,8 @@
 [3code]: ./src/medium/longest-substring-without-repeating-characters/1.js
 [11web]: https://leetcode.com/problems/container-with-most-water/
 [11code]: ./src/medium/container-with-most-water/1.js
+[20web]: https://leetcode.com/problems/valid-parentheses/
+[20code]: ./src/easy/valid-parentheses/1.js
 [121web]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [121code]: ./src/easy/best-time-to-buy-and-sell-stock/1.js
 [125web]: https://leetcode.com/problems/valid-palindrome/
