@@ -1,3 +1,1 @@
-## solution 1
-
-<!-- - Use 'Stack' concept, push all the number inside the stack  -->
+As second "stack" leetcode, I realized that If I need to get the previous few values at any time, just like how a browser needs to have a history to go back to, then using a stack data structure would be very suitable.
