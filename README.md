@@ -19,6 +19,7 @@
 | 424 | [longest-repeating-character-replacement][424web] | [Source Code][424code] | 2023/08/17 |
 | 155 | [mini-stack][155web] | [Source Code][155code] | 2023/09/11 |
 | 150 | [evaluate-reverse-polish-notation][150web] | [Source Code][150code] | 2023/09/13 |
+| 22 | [generate-parentheses][22web] | [Source Code][22code] | 2023/09/21 |
 
 <!-- URL Below -->
 
@@ -30,6 +31,8 @@
 [11code]: ./src/medium/container-with-most-water/1.js
 [20web]: https://leetcode.com/problems/valid-parentheses/
 [20code]: ./src/easy/valid-parentheses/1.js
+[22web]: https://leetcode.com/problems/generate-parentheses/
+[22code]: ./src/medium/generate-parentheses/1.js
 [121web]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [121code]: ./src/easy/best-time-to-buy-and-sell-stock/1.js
 [125web]: https://leetcode.com/problems/valid-palindrome/
