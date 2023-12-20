@@ -25,6 +25,7 @@ var generateParenthesis = function (n) {
   };
   dfs(0, 0, "");
   console.log(res);
+
   return res;
 };
 
