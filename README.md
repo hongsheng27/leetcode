@@ -12,6 +12,7 @@
 | 20 | [valid-parentheses][20web] | [Source Code][20code] | 2023/09/05 |
 | 231 | [power-of-two][231web] | [Source Code][231code] | 2023/09/27 |
 | 263 | [ugly-number][263web] | [Source Code][263code] | 2023/09/27 |
+| 283 | [move-eroes][283web] | [Source Code][283code] | 2023/09/27 |
 
 **Medium Problems**  
 | No. | Title | Code | Date |
@@ -49,6 +50,8 @@
 [231code]: ./src/easy/power-of-two/1.js
 [263web]: https://leetcode.com/problems/ugly-number
 [263code]: ./src/easy/ugly-number/1.js
+[283web]: https://leetcode.com/problems/move-zeroes
+[283code]: ./src/easy/move-zeroes/1.js
 [342web]: https://leetcode.com/problems/power-of-four/
 [342code]: ./src/easy/power-of-four/1.js
 [509web]: https://leetcode.com/problems/fibonacci-number/
