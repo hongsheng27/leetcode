@@ -11,8 +11,9 @@
 | 217 | [contains-duplicate][217web] | [Source Code][217code] | 2023/08/31 |
 | 20 | [valid-parentheses][20web] | [Source Code][20code] | 2023/09/05 |
 | 231 | [power-of-two][231web] | [Source Code][231code] | 2023/09/27 |
-| 263 | [ugly-number][263web] | [Source Code][263code] | 2023/09/27 |
-| 283 | [move-eroes][283web] | [Source Code][283code] | 2023/09/27 |
+| 263 | [ugly-number][263web] | [Source Code][263code] | 2023/10/2 |
+| 283 | [move-eroes][283web] | [Source Code][283code] | 2023/10/6 |
+| 283 | [single-number][136web] | [Source Code][136code] | 2023/10/12 |
 
 **Medium Problems**  
 | No. | Title | Code | Date |
@@ -40,6 +41,8 @@
 [121code]: ./src/easy/best-time-to-buy-and-sell-stock/1.js
 [125web]: https://leetcode.com/problems/valid-palindrome/
 [125code]: ./src/easy/valid-palindrome/1.js
+[136web]: https://leetcode.com/problems/single-number/
+[136code]: ./src/easy/single-number/1.js
 [150web]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [150code]: ./src/medium/evaluate-reverse-polish-notation/1.js
 [155web]: https://leetcode.com/problems/min-stack/
