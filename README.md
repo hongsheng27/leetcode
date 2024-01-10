@@ -12,8 +12,9 @@
 | 20 | [valid-parentheses][20web] | [Source Code][20code] | 2023/09/05 |
 | 231 | [power-of-two][231web] | [Source Code][231code] | 2023/09/27 |
 | 263 | [ugly-number][263web] | [Source Code][263code] | 2023/10/2 |
-| 283 | [move-eroes][283web] | [Source Code][283code] | 2023/10/6 |
-| 283 | [single-number][136web] | [Source Code][136code] | 2023/10/12 |
+| 283 | [move-zeroes][283web] | [Source Code][283code] | 2023/10/6 |
+| 136 | [single-number][136web] | [Source Code][136code] | 2023/10/12 |
+| 26 | [remove-duplicates-from-sorted-array][26web] | [Source Code][26code] | 2024/1/10 |
 
 **Medium Problems**  
 | No. | Title | Code | Date |
@@ -37,6 +38,8 @@
 [20code]: ./src/easy/valid-parentheses/1.js
 [22web]: https://leetcode.com/problems/generate-parentheses/
 [22code]: ./src/medium/generate-parentheses/1.js
+[26web]: https://leetcode.com/problems/remove-duplicates-from-sorted-array
+[26code]: ./src/easy/remove-duplicates-from-sorted-array/1.js
 [121web]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [121code]: ./src/easy/best-time-to-buy-and-sell-stock/1.js
 [125web]: https://leetcode.com/problems/valid-palindrome/
