@@ -21,6 +21,7 @@
 | No. | Title | Code | Date |
 | :---: | :----------------------------------------------------: | :--------------------: | :--------: |
 | 3 | [longest-substring-without-repeating-characters][3web] | [Source Code][3code] | 2023/07/21 |
+| 6 | [zigzag-conversion][6web] | [Source Code][6code] | 2025/04/05 |
 | 11 | [container-with-most-water][11web] | [Source Code][11code] | 2023/08/02 |
 | 424 | [longest-repeating-character-replacement][424web] | [Source Code][424code] | 2023/08/17 |
 | 155 | [mini-stack][155web] | [Source Code][155code] | 2023/09/11 |
@@ -34,6 +35,8 @@
 [1code]: ./src/easy/twoSum/2.js
 [3web]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [3code]: ./src/medium/longest-substring-without-repeating-characters/1.js
+[6web]: https://leetcode.com/problems/zigzag-conversion/description/
+[6code]: ./src/medium/zigzag-conversion/1.js
 [11web]: https://leetcode.com/problems/container-with-most-water/
 [11code]: ./src/medium/container-with-most-water/1.js
 [20web]: https://leetcode.com/problems/valid-parentheses/
