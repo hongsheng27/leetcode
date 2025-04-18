@@ -16,6 +16,7 @@
 | 136 | [single-number][136web] | [Source Code][136code] | 2023/10/12 |
 | 26 | [remove-duplicates-from-sorted-array][26web] | [Source Code][26code] | 2024/1/10 |
 | 35 | [search-insert-position][35web] | [Source Code][35code] | 2024/1/15 |
+| 242 | [valid-anagram][242web] | [Source Code][242code] | 2024/1/15 |
 
 **Medium Problems**  
 | No. | Title | Code | Date |
@@ -61,6 +62,8 @@
 [200code]: ./src/medium/number-of-Islands/1.js
 [217web]: https://leetcode.com/problems/contains-duplicate
 [217code]: ./src/easy/contains-duplicate/1.js
+[242web]: https://leetcode.com/problems/valid-anagram/
+[242code]: ./src/easy/valid-anagram/2.py
 [231web]: https://leetcode.com/problems/power-of-two/
 [231code]: ./src/easy/power-of-two/1.js
 [263web]: https://leetcode.com/problems/ugly-number
