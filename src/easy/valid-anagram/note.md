@@ -1,9 +1,15 @@
 ## solution 1
 
-- Use 'pointer' to calculate the sum. If there is no match, then move either the right pointer one position to the left or move the left pointer one position to the right to narrow the gap.
-  However, this method is not the most suitable for unsorted arrays;It is better suited for handing sorted arrays.
-  Nevertheless, it's still a nice attempt.
+- Use two hashtables (dictionaries) to store character frequencies of the two strings.
+  First, count the frequency of each character in both strings separately.
+  Then compare the two hashtables using == to check if both strings are anagrams.
+  This approach is clear and correct, but contains repeated code for building each hashtable.
 
 ## solution 2
 
-- Leverage 'counter' to save the complement number to a hash table, then compare the next number to check if it is the right complement
+- Optimized version of Solution 1.
+  Renamed variables for clarity (e.g., countS, countT).
+  Used .get() to reduce repetitive if-else statements.
+  Combined both string traversals into a single loop for better performance.
+  Added length check at the beginning for early return.
+  This approach is more Pythonic and efficient.
